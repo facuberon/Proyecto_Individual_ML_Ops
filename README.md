@@ -1,3 +1,7 @@
+# <h1 align=center> **PROYECTO INDIVIDUAL Nº1** </h1>
+
+# <h1 align=center>**`Machine Learning Operations (MLOps)`**
+
 Temática :nerd_face: :
 
 Empiezo a trabajar como Data Scientist en una start-up que provee servicios de agregación de plataformas de streaming. El mundo es bello y voy a crear mi primer modelo de ML que soluciona un problema de negocio: un sistema de recomendación que aún no ha sido puesto en marcha!
