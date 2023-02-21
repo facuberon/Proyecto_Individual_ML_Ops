@@ -21,4 +21,4 @@ Manos a la obra :muscle:
 
 **`Análisis exploratorio de los datos`**:  EDA.ipynb 
 
-**`Video`**: 
+**`Video`**: https://drive.google.com/file/d/100cYor3wMVyTpP1eQ05nRqMttYEXouu3/view?usp=sharing
