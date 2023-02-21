@@ -17,7 +17,7 @@ Manos a la obra :muscle:
 
 **`Desarrollo API`**:  API/main.py
 
-**`Deployment`**:  https://api_proyecto-1-z2744213.deta.app/
+**`Deployment`**:  https://deta.space/discovery/r/mnqnoxyfm5xd4vcm
 
 **`Análisis exploratorio de los datos`**:  EDA.ipynb 
 
