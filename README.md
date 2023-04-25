@@ -15,6 +15,8 @@ Manos a la obra :muscle:
 
 **`Transformaciones`**:  ETL.ipynb
 
+**`Modelo de Machine Learining`**: Sistema de recomendacion.ipynb
+
 **`Desarrollo API`**:  API/main.py
 
 **`Deployment`**:  https://deta.space/discovery/r/mnqnoxyfm5xd4vcm
